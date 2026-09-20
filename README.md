@@ -1,4 +1,4 @@
-# ShadowFox Data Analyst Project
+# ShadowFox Data Analyst – Beginner Project
 
 ## 📌 Project Overview
 This project was completed as part of the ShadowFox Data Analyst Internship.
